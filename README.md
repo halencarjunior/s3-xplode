@@ -10,7 +10,7 @@
 ## _Xplode Public S3 And Scan for Secrets_
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
-S3-xplode is a script that will scan a public s3 bucket for secrets using Regex. So, what is the main difference between others: It will do everything "on the fly". No downloads and no third-party software.
+S3-xplode is a script that will scan a public s3 bucket for secrets using Regex. So, what is the main difference between others: It will do everything "on the fly". No files are saved on the disk and no third-party software.
 
 ## Basic Requirements
 
