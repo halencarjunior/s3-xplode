@@ -16,6 +16,7 @@ S3-xplode is a script that will scan a public s3 bucket for secrets using Regex.
 
 - You should have a list of previously enumerated s3 with public permission.
 - You could use my other script, sss3, to search for public buckets
+- patterns.config file containing regex to scan for files. Edit this file and include your own regex for a secret type
 
 ## Usage
 
