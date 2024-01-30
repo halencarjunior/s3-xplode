@@ -28,7 +28,7 @@ Choose 1 to scan for a single bucket
 Choose 2 to name a file containing a list of bucket names
 ```
 
-[![S3-xplode](https://imgur.com/a/YivwUJ3)]
+![S3-xplode](https://i.imgur.com/yP8wzo4.png "s3-xplode")
 
 ## Development
 
